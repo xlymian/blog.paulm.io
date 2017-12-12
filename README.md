@@ -55,3 +55,5 @@ Site should be live at [http://localhost:4567/](http://localhost:4567/).
 When adding blog articles, you must include `id` frontmatter. Generate an ID by running `rake id`.
 
 For more information read the [middleman-blog](https://middlemanapp.com/basics/blogging/) documentation.
+
+# Test
