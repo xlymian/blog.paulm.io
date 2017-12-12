@@ -50,21 +50,21 @@ activate :vcs_time
 ###
 # Site settings
 ###
-set :site_url, 'http://example.com/'
-set :site_title, 'Site title'
-set :site_subtitle, 'This is the site subtitle'
-set :profile_text, %q(Pitchfork kogi forage, gluten-free pour-over drinking vinegar Etsy narwhal next level shabby chic bicycle rights tofu mustache scenester. Intelligentsia Brooklyn mumblecore, church-key meggings cardigan quinoa gluten-free banjo. Polaroid beard 8-bit, lumbersexual photo booth forage bitters mustache drinking vinegar biodiesel cardigan. Four loko raw denim polaroid selfies, mixtape skateboard lumbersexual. Odd Future Blue Bottle bicycle rights Etsy. Etsy Odd Future normcore, deep v Shoreditch seitan sustainable yr heirloom Brooklyn try-hard stumptown Bushwick cornhole. Portland chillwave pug Tumblr deep v readymade.)
-set :site_author, 'Joe Bloggs'
+set :site_url, 'https://blog.paulm.io/'
+set :site_title, "I'm Paul Mylchreest"
+set :site_subtitle, "Programmer, cyclist, floorball player"
+set :profile_text, %q(Todo.)
+set :site_author, 'Paul Mylchreest'
 # Generate your own by running `rake id`
-set :site_id, 'urn:uuid:b8261ce6-4d49-4afa-9d16-643631ab5afc'
+set :site_id, 'uri:uuid:3131181d-2c7d-45dd-a77c-af19f387d999'
 
 # Usernames
-set :github_username, 'example'
-set :keybase_username, 'example'
-set :twitter_username, 'example'
-set :linkedin_username, 'example'
-set :lastfm_username, 'example'
-set :spotify_username, 'example'
+set :github_username, 'xlymian'
+set :keybase_username, 'xlymian'
+set :twitter_username, 'xlymian'
+set :linkedin_username, 'xlymian'
+set :lastfm_username, nil
+set :spotify_username, nil
 
 # Replace 'nil' with your Disqus shortname, eg. 'example'
 set :disqus_shortname, nil
