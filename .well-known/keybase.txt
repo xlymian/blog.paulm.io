@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/xlymian
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.paulm.io
+  * I am xlymian (https://keybase.io/xlymian) on keybase.
+  * I have a public key ASARPjpKsgNqnA6zWvF8TAKhm7oBWQiEtcQx25L7huhFXwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120113e3a4ab2036a9c0eb35af17c4c02a19bba01590884b5c431db92fb86e8455f0a",
+      "host": "keybase.io",
+      "kid": "0120113e3a4ab2036a9c0eb35af17c4c02a19bba01590884b5c431db92fb86e8455f0a",
+      "uid": "4909d460f5b298356c1b8c90f5b79619",
+      "username": "xlymian"
+    },
+    "merkle_root": {
+      "ctime": 1513110800,
+      "hash": "021637ca509237812daf5a1faa45252ab3f083c3eebfbdb24df859fbd7bb300007219380b0d702114e07c7b32853eb8711bd7b29736e25b068b20d45191c1b4d",
+      "hash_meta": "5996d043ebd22b481d9423edec84fb7c73c6466497d3de244ab1fa74756f82b6",
+      "seqno": 1809659
+    },
+    "service": {
+      "hostname": "blog.paulm.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1513110836,
+  "expire_in": 504576000,
+  "prev": "ee32f5897542a1487ac037199a39bf056910d5796aaa5d9a96117642a94dcc14",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgET46SrIDapwOs1rxfEwCoZu6AVkIhLXEMduS+4boRV8Kp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTEzZTNhNGFiMjAzNmE5YzBlYjM1YWYxN2M0YzAyYTE5YmJhMDE1OTA4ODRiNWM0MzFkYjkyZmI4NmU4NDU1ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTEzZTNhNGFiMjAzNmE5YzBlYjM1YWYxN2M0YzAyYTE5YmJhMDE1OTA4ODRiNWM0MzFkYjkyZmI4NmU4NDU1ZjBhIiwidWlkIjoiNDkwOWQ0NjBmNWIyOTgzNTZjMWI4YzkwZjViNzk2MTkiLCJ1c2VybmFtZSI6InhseW1pYW4ifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTMxMTA4MDAsImhhc2giOiIwMjE2MzdjYTUwOTIzNzgxMmRhZjVhMWZhYTQ1MjUyYWIzZjA4M2MzZWViZmJkYjI0ZGY4NTlmYmQ3YmIzMDAwMDcyMTkzODBiMGQ3MDIxMTRlMDdjN2IzMjg1M2ViODcxMWJkN2IyOTczNmUyNWIwNjhiMjBkNDUxOTFjMWI0ZCIsImhhc2hfbWV0YSI6IjU5OTZkMDQzZWJkMjJiNDgxZDk0MjNlZGVjODRmYjdjNzNjNjQ2NjQ5N2QzZGUyNDRhYjFmYTc0NzU2ZjgyYjYiLCJzZXFubyI6MTgwOTY1OX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJibG9nLnBhdWxtLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzcifSwiY3RpbWUiOjE1MTMxMTA4MzYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZWUzMmY1ODk3NTQyYTE0ODdhYzAzNzE5OWEzOWJmMDU2OTEwZDU3OTZhYWE1ZDlhOTYxMTc2NDJhOTRkY2MxNCIsInNlcW5vIjoxMywidGFnIjoic2lnbmF0dXJlIn2jc2lnxECX3HjES+sF2mAyo5ea+dcmMpPgfSOCDa7R95Ktkc7K5S+zGSydDJvqVUuWn2YkpzUimlnGqfiUN1myf1LsK04MqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgUecW2mcICLzQh+/uYlcXSxaVhUN9wwhQYqTiDt9299ejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xlymian
+
+==================================================================
